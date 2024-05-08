@@ -7,6 +7,6 @@ setup(
     install_requires=[
         'policyengine_us',
         'policyengine_uk',
-        
+        #'policyengine_canada'
     ],
 )
